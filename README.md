@@ -1,2 +1,2 @@
 # Demo
-This is strictly been used for learning purposes.
+This is strictly been used for learning purposes!
